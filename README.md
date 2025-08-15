@@ -7,11 +7,6 @@ Este repositório contém o código-fonte do meu portfólio pessoal. É uma pág
 
 ---
 
-### 🖼️ Visualização
-![Prévia do Portfólio](./img.png)
-
----
-
 ## ✨ Funcionalidades Principais
 - **Seção Hero Dinâmica:** Uma apresentação impactante com uma animação de texto "typewriter" para destacar a área de atuação.
 - **Navegação Intuitiva:** Um cabeçalho fixo com links que levam suavemente às diferentes seções da página.
